@@ -1283,7 +1283,7 @@ __metadata:
     prettier-plugin-multiline-arrays: "npm:^4.1.4"
     prettier-plugin-packagejson: "npm:^3.0.0"
     prettier-plugin-sort-json: "npm:^4.2.0"
-    renovate: "npm:^43.25.2"
+    renovate: "npm:^43.25.6"
   languageName: unknown
   linkType: soft
 
@@ -7440,9 +7440,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:^43.25.2":
-  version: 43.29.2
-  resolution: "renovate@npm:43.29.2"
+"renovate@npm:^43.25.6":
+  version: 43.31.0
+  resolution: "renovate@npm:43.31.0"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.992.0"
     "@aws-sdk/client-ec2": "npm:3.992.0"
@@ -7553,7 +7553,7 @@ __metadata:
     semver-stable: "npm:3.0.0"
     semver-utils: "npm:1.1.4"
     shlex: "npm:3.0.0"
-    simple-git: "npm:3.30.0"
+    simple-git: "npm:3.31.1"
     slugify: "npm:1.6.6"
     source-map-support: "npm:0.5.21"
     strip-json-comments: "npm:5.0.3"
@@ -7575,7 +7575,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/3972e1a1ac1697079ddff1df93dd1158e257ff935c7c99fde6d91b69c8a7376d4d87bbe11778dcc1a4be85278312dd10f68cf8244bca84cfcd4e111ccb833d2e
+  checksum: 10c0/eafabc1ec83a553560cae2bfeef7735d25f6fcacb4b1e92f10338bed242b1a13cb29d185908ecc0b7fa7139f24f68c80d0f5ba42955e0af87c78947adc495942
   languageName: node
   linkType: hard
 
@@ -7928,14 +7928,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"simple-git@npm:3.30.0":
-  version: 3.30.0
-  resolution: "simple-git@npm:3.30.0"
+"simple-git@npm:3.31.1":
+  version: 3.31.1
+  resolution: "simple-git@npm:3.31.1"
   dependencies:
     "@kwsites/file-exists": "npm:^1.1.1"
     "@kwsites/promise-deferred": "npm:^1.1.1"
     debug: "npm:^4.4.0"
-  checksum: 10c0/ca123580944d55c7f93d17f7a89b39cd43245916b35ed3a8b1269d1f2ae9200e17f098e42af4a2572313726f1273641cbe0748a1ea37d8c803c181fb69068b1d
+  checksum: 10c0/8082ef7b3356e0ab01726aa6f614d2e04b6bcf0edf0949e184c49eeb546cb2c903347614a054c7da77021ddd869d52d952d9dab008c6986f614a1d91f16d0041
   languageName: node
   linkType: hard
 
