@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Setup Node & Yarn
-        uses: collide-kit/collide-wfls/actions/prepare@95837e939aeb013a9229ca4e5ee886c328256703 # v1.0.0
+        uses: collide-kit/collide-wfls/actions/prepare@187af17a654548eb073d2aae86ee2e095c546950 # v1.0.0
 
       - name: Run config validation
         run: yarn test
