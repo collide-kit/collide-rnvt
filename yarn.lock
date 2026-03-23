@@ -1118,7 +1118,7 @@ __metadata:
     prettier-plugin-multiline-arrays: "npm:^4.1.5"
     prettier-plugin-packagejson: "npm:^3.0.2"
     prettier-plugin-sort-json: "npm:^4.2.0"
-    renovate: "npm:^43.73.1"
+    renovate: "npm:^43.84.0"
   languageName: unknown
   linkType: soft
 
@@ -3128,14 +3128,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"better-sqlite3@npm:12.6.2":
-  version: 12.6.2
-  resolution: "better-sqlite3@npm:12.6.2"
+"better-sqlite3@npm:12.8.0":
+  version: 12.8.0
+  resolution: "better-sqlite3@npm:12.8.0"
   dependencies:
     bindings: "npm:^1.5.0"
     node-gyp: "npm:latest"
     prebuild-install: "npm:^7.1.1"
-  checksum: 10c0/a58fb3f7a7f5469ba0b8de0855aa67396ff34f951a6975746e4b21987f530be6a34427d1d4bd5958cf48c67ed7ba1df038ae163d2ee9d944237f6b8112f6640d
+  checksum: 10c0/b31da8a8a9bd0dd77d44c11fbfc72141a18b7267aed1ee5bedd481397415ace18eb54140706f82aca8149e4102fb2a543f833761e80f9668470ed53d03958515
   languageName: node
   linkType: hard
 
@@ -7055,9 +7055,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"renovate@npm:^43.73.1":
-  version: 43.76.5
-  resolution: "renovate@npm:43.76.5"
+"renovate@npm:^43.84.0":
+  version: 43.86.1
+  resolution: "renovate@npm:43.86.1"
   dependencies:
     "@aws-sdk/client-codecommit": "npm:3.1000.0"
     "@aws-sdk/client-ec2": "npm:3.1000.0"
@@ -7101,7 +7101,7 @@ __metadata:
     async-mutex: "npm:0.5.0"
     aws4: "npm:1.13.2"
     azure-devops-node-api: "npm:15.1.2"
-    better-sqlite3: "npm:12.6.2"
+    better-sqlite3: "npm:12.8.0"
     bunyan: "npm:1.8.15"
     cacache: "npm:20.0.3"
     changelog-filename-regex: "npm:2.0.1"
@@ -7167,8 +7167,8 @@ __metadata:
     semver-stable: "npm:3.0.0"
     semver-utils: "npm:1.1.4"
     shlex: "npm:3.0.0"
-    simple-git: "npm:3.32.3"
-    slugify: "npm:1.6.6"
+    simple-git: "npm:3.33.0"
+    slugify: "npm:1.6.8"
     source-map-support: "npm:0.5.21"
     strip-json-comments: "npm:5.0.3"
     toml-eslint-parser: "npm:1.0.3"
@@ -7189,7 +7189,7 @@ __metadata:
   bin:
     renovate: dist/renovate.js
     renovate-config-validator: dist/config-validator.js
-  checksum: 10c0/85d7a7c2fb57576ac7eaf9b5db190e2bfd80e13f407c46cc2a7e41f6b64ce0481d10f3e94792f3c956f5d2425d7a84ae993b9927053d15b0e6de5f92e2a4ff7c
+  checksum: 10c0/5ecf06b78053d66dbbf4f602fce3f89026660004101fe486c7395f1ed37c6182a703300639259eb78583621e1bda7517a3b26c818352976f161ffe75ddb8353b
   languageName: node
   linkType: hard
 
@@ -7517,21 +7517,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"simple-git@npm:3.32.3":
-  version: 3.32.3
-  resolution: "simple-git@npm:3.32.3"
+"simple-git@npm:3.33.0":
+  version: 3.33.0
+  resolution: "simple-git@npm:3.33.0"
   dependencies:
     "@kwsites/file-exists": "npm:^1.1.1"
     "@kwsites/promise-deferred": "npm:^1.1.1"
     debug: "npm:^4.4.0"
-  checksum: 10c0/b08ad0811b82d69a9b150109cbf29247bc13f8d5fb5380dcb834a5e0467124c3b5a41a2b9a5dd3c16f1edc9af7fae9add5182ac6476ef0d50e2341c7820fa0f0
+  checksum: 10c0/463e91f3ee04b7fc445284c64502a4ee3d607f626f18c8bcc036815a30fe178d2216976e683c6368edd7b3093801d6e534deeb8e700a4863a76ef23f881a0712
   languageName: node
   linkType: hard
 
-"slugify@npm:1.6.6":
-  version: 1.6.6
-  resolution: "slugify@npm:1.6.6"
-  checksum: 10c0/e7e63f08f389a371d6228bc19d64ec84360bf0a538333446cc49dbbf3971751a6d180d2f31551188dd007a65ca771e69f574e0283290a7825a818e90b75ef44d
+"slugify@npm:1.6.8":
+  version: 1.6.8
+  resolution: "slugify@npm:1.6.8"
+  checksum: 10c0/1052797a5e7bc6263c6e8dc64ad41d6f5ae2fd2e3a17c2aead09ded002f10de75283ff0b4da2b04dd2fbd7fa2f38a83abeaa3ab8d29709ca68e7592edd6e90dc
   languageName: node
   linkType: hard
 
