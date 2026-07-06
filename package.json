@@ -101,12 +101,12 @@
     ]
   },
   "dependencies": {
-    "renovate": "^43.233.3"
+    "renovate": "^43.251.0"
   },
   "devDependencies": {
-    "@prettier/plugin-oxc": "^0.1.4",
-    "prettier": "^3.8.4",
-    "prettier-plugin-multiline-arrays": "^4.1.9",
+    "@prettier/plugin-oxc": "^0.2.0",
+    "prettier": "^3.9.4",
+    "prettier-plugin-multiline-arrays": "^4.1.10",
     "prettier-plugin-packagejson": "^3.0.2",
     "prettier-plugin-sort-json": "^4.2.0"
   },
