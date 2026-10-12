@@ -101,7 +101,7 @@
     ]
   },
   "dependencies": {
-    "renovate": "^44.132.2"
+    "renovate": "^44.148.3"
   },
   "devDependencies": {
     "@prettier/plugin-oxc": "^0.2.3",
